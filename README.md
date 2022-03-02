@@ -18,12 +18,12 @@ App is : [HERE!](https://todolistfor-responsiblepeople.netlify.app/)
 
 ### `npm start`
 
-### Adding
+# Adding
 <img width="400" alt="img-1" src="https://user-images.githubusercontent.com/83697951/156271982-401a4581-4483-43de-b4dd-7adddd0e3e90.png">
 
-### Editing and Saving
+# Editing and Saving
 <img width="393" alt="img-2" src="https://user-images.githubusercontent.com/83697951/156272061-067478de-d3eb-4df4-baec-08af0c4049d2.png">
 
-### Deleting
+# Deleting
 
 <img width="393" alt="img-3" src="https://user-images.githubusercontent.com/83697951/156272115-d88226af-d98c-4f18-8928-f435c56272d9.png">
